@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "pocket-sand",
+  "version": "${version}",
+  "name": "Pocket Sand",
+  "description": "Pocket Sand! Pocket Sand! Pocket Sand!",
+  "authors": [
+    "DuncanRuns"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/pocket-sand/icon.png",
+  "environment": "*",
+  "mixins": [
+    "pocket-sand.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.12.9"
+  }
+}

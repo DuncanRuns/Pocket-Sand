@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "me.duncanruns.pocketsand.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ServerPlayerEntityMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
